@@ -7,7 +7,7 @@ multi-warmup-t32-ada --- 200 step warmup periods every 1000 steps adafactor + ad
 
 
 
-bf16 tf32  vs bf16-peft tf32-peft  - peft=red/light blue
+bf16 tf32  vs bf16-peft tf32-peft  - peft=red/light blue -- untrained model noisy dataset
 
 <img width="353" alt="train5" src="https://github.com/user-attachments/assets/1362c4b0-e118-4ef0-8924-49ad3c8b2d10">
 <img width="532" alt="train3" src="https://github.com/user-attachments/assets/6f3b1c00-46d0-4a60-a692-3e810f0e45f5">
