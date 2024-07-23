@@ -1,3 +1,12 @@
+
+multi-warmup-t32-ada --- 200 step warmup periods every 1000 steps adafactor + added layers
+
+![multi-warmup](https://github.com/user-attachments/assets/42cd4627-6c64-4b34-83d7-cc3f30b43c2a)
+![mlti-warmup](https://github.com/user-attachments/assets/a6b58771-3dec-4cdc-8de0-44173a951a82)
+
+
+
+
 bf16 tf32  vs bf16-peft tf32-peft  - peft=red/light blue
 
 <img width="353" alt="train5" src="https://github.com/user-attachments/assets/1362c4b0-e118-4ef0-8924-49ad3c8b2d10">
@@ -7,10 +16,3 @@ bf16 tf32  vs bf16-peft tf32-peft  - peft=red/light blue
 
 <img width="648" alt="eval_cer_mecab" src="https://github.com/user-attachments/assets/71f5f6cf-b917-42f2-baec-a3f191d76c76">
 <img width="662" alt="eval_cer" src="https://github.com/user-attachments/assets/317d28e2-fea7-428a-b851-4d60ff1b3a65">
-
-
-
-multi-warmup-t32-ada --- 200 step warmup periods every 1000 steps adafactor + added layers
-
-![multi-warmup](https://github.com/user-attachments/assets/42cd4627-6c64-4b34-83d7-cc3f30b43c2a)
-![mlti-warmup](https://github.com/user-attachments/assets/a6b58771-3dec-4cdc-8de0-44173a951a82)
