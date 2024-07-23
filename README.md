@@ -1,3 +1,5 @@
+bf16 tf32  vs bf16-peft tf32-peft
+
 <img width="353" alt="train5" src="https://github.com/user-attachments/assets/1362c4b0-e118-4ef0-8924-49ad3c8b2d10">
 <img width="532" alt="train3" src="https://github.com/user-attachments/assets/6f3b1c00-46d0-4a60-a692-3e810f0e45f5">
 <img width="513" alt="train2" src="https://github.com/user-attachments/assets/d83afade-0279-412e-a3aa-0ac46a4b1175">
@@ -8,7 +10,7 @@
 
 
 
-multi-warmup-t32-ada
+multi-warmup-t32-ada --- 200 step warmup periods every 1000 steps adafactor + added layers
 
 ![multi-warmup](https://github.com/user-attachments/assets/42cd4627-6c64-4b34-83d7-cc3f30b43c2a)
 ![mlti-warmup](https://github.com/user-attachments/assets/a6b58771-3dec-4cdc-8de0-44173a951a82)
