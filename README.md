@@ -1,5 +1,5 @@
 
-multi-warmup-t32-ada --- 200 step warmup periods every 1000 steps adafactor + added layers
+multi-warmup-t32-ada --- 200 step warmup periods every 1000 steps adafactor (+ added layers) - no explosion
 
 ![multi-warmup](https://github.com/user-attachments/assets/42cd4627-6c64-4b34-83d7-cc3f30b43c2a)
 ![mlti-warmup](https://github.com/user-attachments/assets/a6b58771-3dec-4cdc-8de0-44173a951a82)
